@@ -34,7 +34,7 @@ Can be extended to sync across multiple devices or technicians.
 # Tech Stack🚡
 Language: Kotlin, Python.
 
-IDE: Android Studio.
+IDE: Android Studio, VS Code.
 
 ML: TensorFlow Lite for damage detection.
 
