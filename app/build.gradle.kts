@@ -21,7 +21,7 @@ android {
             buildConfig = true
         }
 
-        buildConfigField("String", "GEMINI_API", "\"AIzaSyCdwyzXC1T2tBpXm0uoq9_YPiVsAB0E0l8\"")
+        buildConfigField("String", "GEMINI_API", "\"use your own\"")
 
     }
 
